@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: '폐기물,철거업무,수거문의 010-3940-2468'
 description: null
 image: null
 author: null
