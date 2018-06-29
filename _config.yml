@@ -2,10 +2,8 @@
 title: 대운자원
 subtitle: 고객만족 100% 비철전문업체!
 
-main-title: 폐기물,철거업무,수거문의 010-3940-2468
-
 email: jshsakura@gmail.com
-description: 모두에게 행복한 장소, 행복한 서비스를 주는 대운자원입니다.
+description: 비철 · 고철 · 동 · 스테인레스 파지 등 처리/철거업무 <br>수거문의 010-3940-2468
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:

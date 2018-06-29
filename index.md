@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: '폐기물,철거업무,수거문의 010-3940-2468'
+landing-title: '모두에게 행복한 서비스를 주는 대운자원입니다.'
 description: null
 image: null
 author: null
