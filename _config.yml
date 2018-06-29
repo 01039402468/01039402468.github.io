@@ -8,10 +8,10 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 경기도 성남시 수정구 금토로 26 (금토동)
-city: 경기도 성남시
-state: KR
-zip_code: 55555
-country: United States of America
+city:
+state: 우편번호
+zip_code: 13453
+country: 대운자원
 phone: 031-8017-2468
 
 # homepage tiles
