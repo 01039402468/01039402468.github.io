@@ -3,6 +3,20 @@ body{
 	font-family: 'Sunflower', sans-serif;
 }
 
+#banner{
+    margin: 0 auto;
+    max-width: 65em;
+    width: calc(100% - 6em);
+}
+
+#main{
+    margin: 0 auto;
+    max-width: 65em;
+    width: calc(100% - 6em);
+}
+
+
+
 p{
     font-size: 1rem;
 }
