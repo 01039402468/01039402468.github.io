@@ -17,7 +17,7 @@ input[type="submit"], input[type="reset"], input[type="button"], button, .button
     margin-bottom: 5px;
 }
 .g-font-1{
-    font-size:1rem;
+    font-size:1rem!important;
 }
 
 .g-font-1_18{
