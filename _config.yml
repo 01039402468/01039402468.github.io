@@ -1,0 +1,38 @@
+# site settings
+title: 대운자원
+subtitle: 고객만족 100% 비철전문업체!
+footer-owner: 대표자 남기옥
+footer-corpnum: 129-36-73782
+email: qorlstms@naver.com
+description: 비철 · 고철 · 동 · 스테인레스 파지 등 처리/철거업무 <br>수거문의 <a href="tel:010-3940-2468">010-3940-2468</a>
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 경기도 성남시 수정구 금토로 26 (금토동)
+city:
+state: 우편번호
+zip_code: 13453
+country: 대운자원
+phone: 031-8017-2468
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed

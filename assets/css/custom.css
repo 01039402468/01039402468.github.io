@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Sunflower:300');
+body{
+	font-family: 'Sunflower', sans-serif;
+}
+
+@media all and (max-width: 1200px) {
+        #banner,#main,#header{
+            width:100%!important;
+            max-width:100%!important;
+        }
+}
+
+#header{
+    margin: 0 auto;
+    max-width: 65em;
+    width: calc(100% - 6em);
+}
+
+#banner{
+    margin: 0 auto;
+    max-width: 65em;
+    width: calc(100% - 6em);
+}
+
+#main{
+    margin: 0 auto;
+    max-width: 65em;
+    width: calc(100% - 6em);
+}
+
+
+
+p{
+    font-size: 1rem;
+}
+input[type="submit"], input[type="reset"], input[type="button"], button, .button{
+    font-size: 1rem;
+}
+
+#footer .copyright {
+    font-size: 1rem;
+}
+.g-mb-5{
+    margin-bottom: 5px;
+}
+.g-font-1{
+    font-size:1rem!important;
+}
+.g-font-1_5{
+    font-size:1.5rem!important;
+}
+.g-font-1_18{
+    font-size:1.18rem;
+}
+.g-font-1_19{
+    font-size:1.19rem;
+}
+.g-font-1_2{
+    font-size:1.2rem;
+}
+.g-font-1_3{
+    font-size:1.3rem;
+}
+.g-font-1_4{
+    font-size:1.4rem;
+}
+.g-font-1_5{
+    font-size:1.5rem;
+}
