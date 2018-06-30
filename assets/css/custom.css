@@ -3,24 +3,21 @@ body{
 	font-family: 'Sunflower', sans-serif;
 }
 
-@media all and (max-width: 1400px) {
-        #banner,#main{
-            width:100%!important;
-            max-width:100%!important;
-        }
-}
-
-#banner{
+@media all and (min-width: 1280px) {
+        #banner{
     margin: 0 auto;
     max-width: 65em;
     width: calc(100% - 6em);
+    }
+
+    #main{
+        margin: 0 auto;
+        max-width: 65em;
+        width: calc(100% - 6em);
+    }
 }
 
-#main{
-    margin: 0 auto;
-    max-width: 65em;
-    width: calc(100% - 6em);
-}
+
 
 
 
