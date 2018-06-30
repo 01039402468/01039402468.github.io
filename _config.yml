@@ -3,8 +3,8 @@ title: 대운자원
 subtitle: 고객만족 100% 비철전문업체!
 
 email: qorlstms@naver.com
-description: 비철 · 고철 · 동 · 스테인레스 파지 등 처리/철거업무 <br>수거문의 010-3940-2468
-baseurl: "" # the subpath of your site, e.g. /blog
+description: 비철 · 고철 · 동 · 스테인레스 파지 등 처리/철거업무 <br>수거문의 <a href="tel:010-3940-2468">010-3940-2468</a>
+baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 경기도 성남시 수정구 금토로 26 (금토동)

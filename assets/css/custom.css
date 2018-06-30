@@ -10,8 +10,8 @@ input[type="submit"], input[type="reset"], input[type="button"], button, .button
     font-size: 1rem;
 }
 
-.copyright > li {
-    font-size: 1.15rem;
+#footer .copyright {
+    font-size: 1rem;
 }
 
 .g-font-1{
