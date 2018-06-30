@@ -3,7 +3,7 @@ body{
 	font-family: 'Sunflower', sans-serif;
 }
 
-@media all and (max-width: 65em) {
+@media all and (max-width: 1200px) {
         #banner,#main,#header{
             width:100%;
             max-width:100%;
