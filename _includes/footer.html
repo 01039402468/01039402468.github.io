@@ -5,16 +5,16 @@
 			 <h3>상담 / 문의 메일 발송</h3>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
-					<label for="name">보내시는분 성함</label>
-					<input type="text" name="name" id="name" />
+					<label for="name">성함</label>
+					<input type="text" name="name" id="name" placeholder="성함" />
 				</div>
 				<div class="field half">
 					<label for="email">이메일 또는 연락처</label>
-					<input type="text" name="_replyto" id="email" />
+					<input type="text" name="_replyto" id="email" placeholder="답변 받으실 연락처를 입력해주세요."/>
 				</div>
 				<div class="field">
 					<label for="message">문의내용</label>
-					<textarea name="message" id="message" rows="6"></textarea>
+					<textarea name="message" id="message" rows="6" placeholder="내용을 입력하세요."></textarea>
 				</div>
 				<ul class="actions">
 					<li><input type="submit" value="Send Message" class="special" /></li>
