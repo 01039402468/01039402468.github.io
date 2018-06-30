@@ -3,17 +3,11 @@ body{
 	font-family: 'Sunflower', sans-serif;
 }
 
-@media all and (max-width: 1200px) {
-        #banner,#main,#header{
+@media all and (max-width: 1400px) {
+        #banner,#main{
             width:100%!important;
             max-width:100%!important;
         }
-}
-
-#header{
-    margin: 0 auto;
-    max-width: 65em;
-    width: calc(100% - 6em);
 }
 
 #banner{
