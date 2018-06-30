@@ -1,5 +1,4 @@
-<section id="one" class="tiles text-center">
-        <div style="max-width: 65em;">
+<section id="one" class="tiles">
 	{% for post in site.posts limit:site.tiles-count %}
 	{% if site.tiles-source == 'posts' %}
         <article>
@@ -26,5 +25,4 @@
         </article>
 	{% endif %}
 	{% endfor %}
-        </div>
 </section>
