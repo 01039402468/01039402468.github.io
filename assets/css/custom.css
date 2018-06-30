@@ -19,7 +19,9 @@ input[type="submit"], input[type="reset"], input[type="button"], button, .button
 .g-font-1{
     font-size:1rem!important;
 }
-
+.g-font-1_5{
+    font-size:1.5rem!important;
+}
 .g-font-1_18{
     font-size:1.18rem;
 }
