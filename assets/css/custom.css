@@ -4,10 +4,16 @@ body{
 }
 
 @media all and (max-width: 65em) {
-        #banner,#main{
+        #banner,#main,#header{
             width:100%;
             max-width:100%;
         }
+}
+
+#header{
+    margin: 0 auto;
+    max-width: 65em;
+    width: calc(100% - 6em);
 }
 
 #banner{
