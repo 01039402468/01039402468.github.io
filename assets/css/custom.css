@@ -13,7 +13,9 @@ input[type="submit"], input[type="reset"], input[type="button"], button, .button
 #footer .copyright {
     font-size: 1rem;
 }
-
+.g-mb-5{
+    margin-bottom: 5px;
+}
 .g-font-1{
     font-size:1rem;
 }
