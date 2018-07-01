@@ -860,7 +860,7 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
-    font-family: {{ site.data.template.font.primary }};
+    font-family: {{ site.data.template.font.primary }} !important;
     overflow-x: hidden;
     color: #{{ site.data.template.color.secondary-dark }};
 }
