@@ -859,11 +859,7 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
-}
-
-@import url('https://fonts.googleapis.com/css?family=Sunflower:300');
-body{
-    font-family: 'Yeon Sung', cursive !important;
+    font-family: {{ site.data.template.font.primary }};
     overflow-x: hidden;
     color: #{{ site.data.template.color.secondary-dark }};
 }
