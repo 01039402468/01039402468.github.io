@@ -1,6 +1,6 @@
 ---
 title: 철근 스크랩 처리
-subtitle: 폐기물 처리 / 철거
+subtitle: 폐기물 처리 , 철거
 layout: default
 modal-id: 5
 date: 2014-07-14

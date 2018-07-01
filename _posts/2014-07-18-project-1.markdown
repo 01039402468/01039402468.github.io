@@ -1,6 +1,6 @@
 ---
 title: 각종 철 폐기물 처리
-subtitle: 폐기물 처리 / 철거
+subtitle: 폐기물 처리 , 철거
 layout: default
 modal-id: 1
 date: 2014-07-18
