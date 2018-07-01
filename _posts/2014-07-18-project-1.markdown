@@ -1,5 +1,5 @@
 ---
-title: 작종 철 폐기물 처리
+title: 전선 폐기물 처리
 subtitle: 폐기물 처리 / 철거
 layout: default
 modal-id: 1
