@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 각종 철 폐기물 처리
+subtitle: 폐기물/철거작업
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: escape.jpg
+thumbnail: escape-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: date: 2014-07-17
+client: 대운자원
+category: 폐기물/철거작업
+description: 각종 철 폐기물 처리해 드립니다.
 
 ---

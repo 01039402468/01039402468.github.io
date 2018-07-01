@@ -7,6 +7,8 @@ date: 2014-07-18
 img: dreams.jpg
 thumbnail: dreams-thumbnail.jpg
 alt: image-alt
+project-date: date: 2014-07-17
+client: 대운자원
 category: 폐기물/철거작업
 description: 각종 전선 폐기물 처리해 드립니다.
 
