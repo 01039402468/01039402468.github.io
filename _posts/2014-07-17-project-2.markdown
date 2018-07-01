@@ -1,11 +1,11 @@
 ---
-title: 각종 철 폐기물 처리
+title: 전선 폐기물 처리
 subtitle: 폐기물 처리 / 철거
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.jpg
-thumbnail: escape-thumbnail.jpg
+img: 2.png
+thumbnail: 2.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
