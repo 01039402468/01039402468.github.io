@@ -19,12 +19,12 @@ $(function() {
             }
             $.ajax({
                 url: "/mail/contact_me.php",
-                type: "POST",
+                type: "GET",
                 data: {
-                    name: name,
+                    name: escape(name),
                     phone: phone,
                     email: email,
-                    message: message
+                    message: escape(message)
                 },
                 cache: false,
                 success: function() {
