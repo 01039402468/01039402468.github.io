@@ -20,13 +20,12 @@ a#MOVE_TOP_BTN {
 }
 
 p {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.75;
-    font-weight: 600;
 }
 
 p.large {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 a,
@@ -311,7 +310,7 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 2.5rem;
+        font-size: 2.2rem;
         font-style: italic;
         line-height: 40px;
     }
